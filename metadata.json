@@ -1,0 +1,6 @@
+{
+  "name": "SecureVault USA",
+  "description": "Ultra-secure password vault with Android Autofill Service, biometric security, AES-256 encryption, and USA mobile profile automation hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
